@@ -1,1 +1,3 @@
 hello world
+Git is easy
+and Git is fun
